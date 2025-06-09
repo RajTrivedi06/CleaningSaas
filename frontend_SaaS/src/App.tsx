@@ -1,20 +1,43 @@
-import React from "react";
+import "@radix-ui/themes/styles.css";
+import { Theme } from "@radix-ui/themes";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
-export default function App() {
-  return (
-    <main className="flex min-h-screen flex-col items-center justify-center gap-8 bg-slate-100">
-      {/* Heading rendered with Tailwind utility classes */}
-      <h1 className="text-4xl font-bold text-red-600">Tailwind is live 🚀</h1>
+import Shell from "@/layout/Shell";
+import Dashboard from "@/pages/dashboard";
 
-      {/* Card demonstrating custom @apply class */}
-      <div className="example-box">
-        If you can read this, the build pipeline is working!
-      </div>
+// ---- stub screens you’ll flesh out later ----
+import Events from "@/pages/events";
+import Tasks from "@/pages/tasks";
+import Team from "@/pages/team";
+import Documents from "@/pages/documents";
+import Reports from "@/pages/reports";
+import Settings from "@/pages/settings";
 
-      {/* Button shows hover + focus states */}
-      <button className="rounded-md bg-red-600 px-5 py-2 text-white shadow-md transition hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-400">
-        Click me
-      </button>
-    </main>
-  );
-}
+const App = () => (
+  <Theme
+    appearance="light" // later: “system” for auto-dark-mode
+    accentColor="grass" // matches emerald palette
+    grayColor="sage"
+    radius="large"
+  >
+    <BrowserRouter>
+      <Routes>
+        {/* everything inside Shell gets TopBar + SideNav */}
+        <Route element={<Shell />}>
+          <Route index element={<Dashboard />} />
+          <Route path="events" element={<Events />} />
+          <Route path="tasks" element={<Tasks />} />
+          <Route path="team" element={<Team />} />
+          <Route path="documents" element={<Documents />} />
+          <Route path="reports" element={<Reports />} />
+          <Route path="settings" element={<Settings />} />
+        </Route>
+
+        {/* catch-all → dashboard */}
+        <Route path="*" element={<Navigate to="/" replace />} />
+      </Routes>
+    </BrowserRouter>
+  </Theme>
+);
+
+export default App;

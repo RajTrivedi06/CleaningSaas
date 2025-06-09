@@ -1,0 +1,29 @@
+[
+  {
+    "eventName": "Taylor Swift Concert",
+    "clientName": "Live Nation",
+    "venueId": "SOLDIER_FIELD",
+    "dateTime": "2024-06-01T19:00:00",
+    "staffCount": 45,
+    "expectedAttendance": 55000,
+    "budget": "$150,000"
+  },
+  {
+    "eventName": "Tech Conference 2024",
+    "clientName": "TechCorp",
+    "venueId": "McCORMICK_PLACE",
+    "dateTime": "2024-07-15T09:00:00",
+    "staffCount": 20,
+    "expectedAttendance": 5000,
+    "budget": "$75,000"
+  },
+  {
+    "eventName": "Annual Gala Dinner",
+    "clientName": "Charity Foundation",
+    "venueId": "HYATT_REGENCY",
+    "dateTime": "2024-08-20T18:00:00",
+    "staffCount": 15,
+    "expectedAttendance": 800,
+    "budget": "$25,000"
+  }
+]
