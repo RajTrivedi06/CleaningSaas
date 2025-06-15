@@ -1,90 +1,121 @@
 #!/usr/bin/env python3
-import os
-import argparse
-import json
+"""
+Robust venue extractor:
+• Google 'web' → seat counts etc.
+• Google Maps     → street address
+• Wikipedia REST  → opening year
+• OpenAI chat     → JSON struct
+"""
+
+import argparse, json, os, re, sys
+from typing import List, Optional
+
+import requests
 from serpapi import GoogleSearch
-import openai
+from openai import OpenAI
 from dotenv import load_dotenv
 
-# ——————— Setup ———————
-# 1. pip install openai serpapi python-dotenv
-# 2. Create a .env file with your keys:
-#    OPENAI_API_KEY=sk-…
-#    SERPAPI_API_KEY=your_serpapi_key
+# ── env / clients ──────────────────────────────────────────────────────────
+load_dotenv()                                       # loads .env automatically
+SERPAPI_KEY = os.getenv("SERPAPI_API_KEY") or sys.exit("Missing SERPAPI_API_KEY")
+client = OpenAI()                                   # OPENAI_API_KEY auto-loaded
 
-load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
-SERPAPI_API_KEY = os.getenv("SERPAPI_API_KEY")
-
-def search_venue_snippets(venue_name, num_results=3):
-    """Use SerpAPI to grab the top snippets for a venue."""
-    params = {
+# ── helpers ────────────────────────────────────────────────────────────────
+def google_web_snippets(query: str, num: int = 3) -> List[str]:
+    """Return up to `num` organic snippets from a normal Google search."""
+    data = GoogleSearch({
         "engine": "google",
-        "q": f"{venue_name} venue specifications",
-        "api_key": SERPAPI_API_KEY,
-        "num": num_results
-    }
-    search = GoogleSearch(params)
-    data = search.get_dict()
-    snippets = []
-    for r in data.get("organic_results", []):
-        text = r.get("snippet") or r.get("rich_snippet", {}).get("top", {}).get("snippet")
-        if text:
-            snippets.append(text)
+        "q": query,
+        "api_key": SERPAPI_KEY,
+        "hl": "en",
+        "location": "United States",
+        "num": num
+    }).get_dict()
+    return [
+        snip for r in data.get("organic_results", [])
+        if (snip := r.get("snippet") or
+                   r.get("rich_snippet", {}).get("top", {}).get("snippet"))
+    ][:num]
+
+def google_maps_address(place: str) -> Optional[str]:
+    """Look up a place in Google Maps and return the first formatted address."""
+    data = GoogleSearch({
+        "engine": "google_maps",
+        "q": place,
+        "api_key": SERPAPI_KEY,
+        "type": "place"
+    }).get_dict()
+    try:
+        return data["local_results"][0]["address"]
+    except (KeyError, IndexError):
+        return None
+
+def wiki_opening_year(title: str) -> Optional[str]:
+    """Fetch opening/founded year from Wikipedia page summary."""
+    url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{title.replace(' ', '_')}"
+    try:
+        text = requests.get(url, timeout=10).json().get("extract", "")
+    except Exception:
+        return None
+    m = re.search(r"\b(18|19|20)\d{2}\b", text)
+    return m.group(0) if m else None
+
+def search_venue_snippets(venue: str, web_num: int = 3) -> str:
+    """Aggregate web snippets + Maps address + Wiki year into one text blob."""
+    snippets = google_web_snippets(f"{venue} venue specifications", web_num)
+
+    if (addr := google_maps_address(venue)):
+        snippets.append(f"Address: {addr}")
+
+    if (yr := wiki_opening_year(venue)):
+        snippets.append(f"Year opened: {yr}")
+
     return "\n\n".join(snippets)
 
-def extract_venue_details(text, model="gpt-4-turbo"):
-    """Ask ChatGPT to pull out the fields we care about."""
+# ── OpenAI extraction ──────────────────────────────────────────────────────
+def extract_venue_details(text: str, model="gpt-4o-mini") -> dict:
     prompt = f"""
-Extract the following fields from the text below and return a JSON object with exactly these keys.
-If a field is missing, use null.
+    Extract the following fields from the text below and return a JSON object
+    with exactly these keys. If a field is missing, use null.
 
-Fields:
-- seat_count (integer)
-- area_sqft (number)
-- num_rooms (integer)
-- address (string)
-- year_opened (integer)
+    Fields:
+    - seat_count (integer)
+    - area_sqft (number)
+    - num_rooms (integer)
+    - address (string)
+    - year_opened (integer)
 
-Text:
-\"\"\"{text}\"\"\"
-"""
-    resp = openai.ChatCompletion.create(
+    Text:
+    \"\"\"{text}\"\"\"
+    """
+    resp = client.chat.completions.create(
         model=model,
         temperature=0,
+        response_format={"type": "json_object"},
         messages=[
-            {"role": "system", "content": "You are a data extraction assistant."},
-            {"role": "user", "content": prompt}
+            {"role": "system", "content": "You are a data-extraction assistant."},
+            {"role": "user",   "content": prompt}
         ]
     )
-    # The assistant should reply with raw JSON
-    return resp.choices[0].message.content.strip()
+    return json.loads(resp.choices[0].message.content)
 
-def main():
-    parser = argparse.ArgumentParser(description="Search for a venue and extract specs via ChatGPT.")
-    parser.add_argument("venue_name", help="Name of the venue to lookup")
-    parser.add_argument("--model", default="gpt-4-turbo",
-                        help="OpenAI model to use (e.g. gpt-3.5-turbo or gpt-4-turbo)")
-    args = parser.parse_args()
+# ── CLI ────────────────────────────────────────────────────────────────────
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("venue_name")
+    ap.add_argument("--model", default="gpt-4o-mini")
+    args = ap.parse_args()
 
-    print(f"🔍 Searching for '{args.venue_name}'…")
-    snippets = search_venue_snippets(args.venue_name)
-    if not snippets:
-        print("No search snippets found. Check your SerpAPI key or query.")
+    print(f"🔍  Gathering search data for “{args.venue_name}”…")
+    blob = search_venue_snippets(args.venue_name)
+    if not blob:
+        print("Nothing found – check SerpAPI quota or spelling.")
         return
 
-    print("🤖 Extracting details with OpenAI…")
-    details_json = extract_venue_details(snippets, model=args.model)
+    print("🤖  Extracting with OpenAI …")
+    details = extract_venue_details(blob, model=args.model)
 
-    # Pretty–print the JSON
-    try:
-        details = json.loads(details_json)
-    except json.JSONDecodeError:
-        print("⚠️  Got a non-JSON response, here it is raw:\n")
-        print(details_json)
-        return
-
-    print("\n🎉 Extracted venue details:")
+    print("\n🎉  Extracted venue details:")
     print(json.dumps(details, indent=2))
 
 if __name__ == "__main__":

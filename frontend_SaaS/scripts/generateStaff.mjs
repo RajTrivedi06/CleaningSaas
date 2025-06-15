@@ -47,6 +47,6 @@ function generateStaff(count) {
 }
 
 // write out
-const outPath = path.resolve("frontend_SaaS/src/data/staff.json");
+const outPath = path.resolve("src/data/staff.json");
 fs.writeFileSync(outPath, JSON.stringify(generateStaff(count), null, 2));
 console.log(`✅ Wrote ${count} records to ${outPath}`);

@@ -1,0 +1,7131 @@
+[
+  {
+    "id": "66e54617-95c6-43c0-990f-fa5471d24763",
+    "name": "Danny Windler",
+    "role": "Supervisor",
+    "email": "Maximo.Fritsch@hotmail.com",
+    "phone": "740.785.6182 x41177",
+    "zones": [
+      "Concourse",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "2665b200-661b-433d-b332-f6a952a67674",
+    "name": "Cindy Deckow",
+    "role": "Supervisor",
+    "email": "Carmella.Conroy28@gmail.com",
+    "phone": "208-771-8058 x4338",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "94382afc-333b-4a68-9da3-febd9e293fc4",
+    "name": "Anthony Wunsch",
+    "role": "Team Lead",
+    "email": "Isabell_Shields@yahoo.com",
+    "phone": "1-867-816-2485",
+    "zones": [
+      "Lobby",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "6bf4428d-40bd-44d5-9c12-30a6a07b94b0",
+    "name": "Dominick Deckow-Murazik",
+    "role": "Team Lead",
+    "email": "Vivian_Murphy26@gmail.com",
+    "phone": "1-885-614-9568 x71418",
+    "zones": [
+      "Ballroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "7ce454af-8087-4354-92b5-91c89eeb898a",
+    "name": "Ernest Stroman IV",
+    "role": "Team Lead",
+    "email": "Catharine.Hartmann52@gmail.com",
+    "phone": "1-304-546-7494",
+    "zones": [
+      "Ballroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "0fd5148a-cb07-428a-8882-25f77471a162",
+    "name": "Franklin Boyle",
+    "role": "Supervisor",
+    "email": "Darwin.Bergstrom@hotmail.com",
+    "phone": "756-811-3691",
+    "zones": [
+      "Concourse",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "8f66d35b-8165-40b9-8416-d6231a733eb7",
+    "name": "Jessie Roberts",
+    "role": "Team Lead",
+    "email": "Anastacio.Parker16@gmail.com",
+    "phone": "421.815.1893 x0911",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "a7005fa6-8f54-4cb7-ae1a-37d0d8728759",
+    "name": "Peter Hudson",
+    "role": "Team Lead",
+    "email": "Nicholas35@yahoo.com",
+    "phone": "710.382.0297 x8920",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "820dad1e-6a17-46f7-8fd0-e73132ee8d2e",
+    "name": "Mark Macejkovic",
+    "role": "Supervisor",
+    "email": "Emmalee.Brekke@hotmail.com",
+    "phone": "783.611.0908",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "2b72fa69-3bba-42c5-9680-c8fb6f7bf78a",
+    "name": "Doris Zboncak",
+    "role": "Cleaner",
+    "email": "Bailey20@gmail.com",
+    "phone": "936-729-1260 x09108",
+    "zones": [
+      "Ballroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "431cc1e4-4513-4122-8ea9-965b1a52e5fc",
+    "name": "Winifred Mitchell",
+    "role": "Supervisor",
+    "email": "Edgardo.Greenfelder@gmail.com",
+    "phone": "(419) 282-3939 x82398",
+    "zones": [
+      "Restroom",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "d91d769f-c50b-4353-84cc-7de144806cda",
+    "name": "Henry Bechtelar",
+    "role": "Supervisor",
+    "email": "Joaquin_Jacobi@hotmail.com",
+    "phone": "1-350-551-6360 x0997",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "e0b095fe-78ef-4dc7-bbd4-b24729484316",
+    "name": "Wendy VonRueden",
+    "role": "Team Lead",
+    "email": "Mallory.Stokes@yahoo.com",
+    "phone": "691.831.4677 x58991",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "ba386c84-ae19-4211-9378-96d14c225236",
+    "name": "Angelica Mills",
+    "role": "Supervisor",
+    "email": "Tremayne59@yahoo.com",
+    "phone": "1-556-881-7908 x592",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "9b5b1654-6430-45f1-8c5b-2f66651d5e8f",
+    "name": "Tracey Kihn Sr.",
+    "role": "Supervisor",
+    "email": "Alaina90@gmail.com",
+    "phone": "745-865-0228",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "cf3ab9d4-c626-430f-9598-67f53939503f",
+    "name": "Jamie Fahey-Nikolaus",
+    "role": "Cleaner",
+    "email": "Enoch55@hotmail.com",
+    "phone": "783-375-2124 x11183",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "acbf8af2-bf6c-464f-9eb4-ae5001b67e80",
+    "name": "Cornelius Cummings",
+    "role": "Team Lead",
+    "email": "Javon_McLaughlin@gmail.com",
+    "phone": "630-723-6951 x97416",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "baa6f674-c5a5-4e98-b6b6-7729c1ce1b91",
+    "name": "Mr. Caleb Weissnat",
+    "role": "Cleaner",
+    "email": "Victor.Turner@gmail.com",
+    "phone": "499-944-8198 x6303",
+    "zones": [
+      "Restroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "379b53c4-9b7e-4017-9ceb-8139b1ef5c9e",
+    "name": "Leonard Toy",
+    "role": "Supervisor",
+    "email": "Anna.Batz@yahoo.com",
+    "phone": "(738) 886-5197 x781",
+    "zones": [
+      "Ballroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "373130f0-ed72-42c1-8e92-4e681bc49398",
+    "name": "Delia Little",
+    "role": "Team Lead",
+    "email": "Electa_Kovacek@yahoo.com",
+    "phone": "1-515-515-8272 x2441",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "a8bb5af0-2ab9-4c40-b0f9-479468a1e4ee",
+    "name": "Alonzo Little",
+    "role": "Cleaner",
+    "email": "Alicia_Armstrong@yahoo.com",
+    "phone": "249.347.0817 x66232",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "7218eb47-5d6a-4ed3-9652-a224bbe19656",
+    "name": "Erika Mitchell",
+    "role": "Cleaner",
+    "email": "Florence.Tromp16@yahoo.com",
+    "phone": "(513) 368-0156",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "263ac1ce-33d5-4dee-ba43-90f1e2e4bc82",
+    "name": "Mary Denesik",
+    "role": "Team Lead",
+    "email": "Lourdes93@hotmail.com",
+    "phone": "417-357-3209 x63672",
+    "zones": [
+      "Ballroom",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "ad5ec649-9078-48cd-bca0-16bfe95feb2e",
+    "name": "Simon Jacobs",
+    "role": "Team Lead",
+    "email": "Beulah99@gmail.com",
+    "phone": "(622) 452-0386 x77105",
+    "zones": [
+      "Restroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "23f8c0aa-9ab9-426b-95e0-2c3f5e41e9bf",
+    "name": "Mr. Jose Haag",
+    "role": "Cleaner",
+    "email": "Solon.Heller27@yahoo.com",
+    "phone": "326.474.4936",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "73a015f0-6bb1-4618-ad65-e1ded9c1e8d8",
+    "name": "Frankie Kassulke",
+    "role": "Team Lead",
+    "email": "Edgar_Schultz@yahoo.com",
+    "phone": "1-242-555-5626",
+    "zones": [
+      "Restroom",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "f8998e5d-41dd-4e5d-b201-c3f5c8c6efe1",
+    "name": "Renee Schmeler",
+    "role": "Supervisor",
+    "email": "Janae.Fadel@yahoo.com",
+    "phone": "961-747-6686 x8682",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "9f2822b7-4343-429b-869e-9b645ca273fa",
+    "name": "Leona Kuhic",
+    "role": "Supervisor",
+    "email": "Felipe58@hotmail.com",
+    "phone": "(684) 494-5723 x18815",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "569bb385-e6f5-40cb-935d-96ec7de9501a",
+    "name": "Hilda Jones",
+    "role": "Supervisor",
+    "email": "David_Mitchell@gmail.com",
+    "phone": "627.961.3361 x6484",
+    "zones": [
+      "Concourse",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "6b9b9824-30ca-465a-ab32-a0fa7c21c2bd",
+    "name": "Gloria Koelpin",
+    "role": "Supervisor",
+    "email": "Stevie67@yahoo.com",
+    "phone": "288.343.2679 x379",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "62eb40bd-842b-4e93-ab53-1956de12058b",
+    "name": "Terrell Rohan",
+    "role": "Supervisor",
+    "email": "Mitchel91@gmail.com",
+    "phone": "864-955-0901",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "0a0f68cd-3886-4411-be7a-ccd85446e840",
+    "name": "Shaun Ernser",
+    "role": "Cleaner",
+    "email": "Leatha.Mosciski@gmail.com",
+    "phone": "369.491.3192 x4159",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "8a0fbfec-5245-431e-9db5-45ddfa2925cd",
+    "name": "Sonia Mitchell",
+    "role": "Supervisor",
+    "email": "Donnie.Beahan@hotmail.com",
+    "phone": "465-218-8068 x94729",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "0bd3d772-81ca-4b50-839e-8d227a5b161b",
+    "name": "Gregg Halvorson",
+    "role": "Supervisor",
+    "email": "Benny93@hotmail.com",
+    "phone": "369-225-5425 x85535",
+    "zones": [
+      "Restroom",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "b40831ce-e04a-443f-9b9d-94c87a817402",
+    "name": "Georgia Keeling",
+    "role": "Cleaner",
+    "email": "Bridgette.Hayes7@gmail.com",
+    "phone": "(551) 231-0779 x56990",
+    "zones": [
+      "Concourse",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "04b279d5-f501-4ae4-827d-70a0f1c82a06",
+    "name": "Hazel Feil",
+    "role": "Team Lead",
+    "email": "Nyasia97@yahoo.com",
+    "phone": "756-879-8447 x698",
+    "zones": [
+      "Concourse",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "74e87906-a17d-4ce9-b303-5c6475424cb8",
+    "name": "Angel Schaden",
+    "role": "Supervisor",
+    "email": "Aditya_Ullrich90@gmail.com",
+    "phone": "1-590-696-9542",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "162cb9de-30c6-4ba9-a050-e75308674dd2",
+    "name": "Sergio Flatley",
+    "role": "Team Lead",
+    "email": "Madelyn.Hane73@yahoo.com",
+    "phone": "(371) 830-1727 x6380",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "f0758562-18ad-4391-bc17-b2427711f94d",
+    "name": "Wendell Huel",
+    "role": "Supervisor",
+    "email": "Camilla.Renner41@gmail.com",
+    "phone": "500.724.1478",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "e905ba21-6483-4822-87b0-375d255965f8",
+    "name": "Darren Willms",
+    "role": "Supervisor",
+    "email": "Blaise85@yahoo.com",
+    "phone": "300.739.0734",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "ceec7c3c-0441-4547-a356-000951dd972c",
+    "name": "Devin Streich",
+    "role": "Supervisor",
+    "email": "Donato_Tremblay82@yahoo.com",
+    "phone": "546.533.8656 x794",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "942bf3c2-10c2-4329-9681-cf6e8f3025b1",
+    "name": "Jay Kessler",
+    "role": "Cleaner",
+    "email": "Ora_Cummerata19@gmail.com",
+    "phone": "(796) 414-3004 x94804",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "1355e429-eb59-4d5f-ac61-2abfb5e2c895",
+    "name": "Leon Franey",
+    "role": "Cleaner",
+    "email": "Joe_Casper16@yahoo.com",
+    "phone": "959.971.0389 x60852",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "e253e986-2de7-488e-a418-59311453382a",
+    "name": "Maria Jacobi",
+    "role": "Supervisor",
+    "email": "Ian.Braun-Littel22@gmail.com",
+    "phone": "(320) 599-7528 x346",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "678fb130-2934-4e79-a38b-e84dd11bb1ea",
+    "name": "Donnie Gleason",
+    "role": "Supervisor",
+    "email": "Jerad76@hotmail.com",
+    "phone": "901-322-8480",
+    "zones": [
+      "Concourse",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "ef29d0a7-ee76-4927-876b-10031c89eccc",
+    "name": "Marguerite Schimmel",
+    "role": "Supervisor",
+    "email": "Dianna.Tromp@gmail.com",
+    "phone": "800-731-5917 x24795",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "a3b3193a-bcc1-4b11-ba9f-8eca75e9c249",
+    "name": "Francis Rogahn",
+    "role": "Cleaner",
+    "email": "Gina90@yahoo.com",
+    "phone": "405.268.5719",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "09728fe6-e4c5-4875-973a-a6efa8b09ba2",
+    "name": "Jacqueline Torphy",
+    "role": "Supervisor",
+    "email": "Sheridan69@hotmail.com",
+    "phone": "1-701-745-1547 x297",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "51615508-d8d7-4da3-8920-89c5ac90e6cf",
+    "name": "Elijah Greenfelder",
+    "role": "Supervisor",
+    "email": "Juvenal.Hayes4@hotmail.com",
+    "phone": "998.874.7344 x14880",
+    "zones": [
+      "Concourse",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "28b2f2e4-08b7-45ec-8301-751d85a21dd3",
+    "name": "Peter McLaughlin",
+    "role": "Supervisor",
+    "email": "Daisha15@hotmail.com",
+    "phone": "1-450-418-6361 x85988",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "a4d899d1-c8fc-46c7-b8d2-f03ef56f09ec",
+    "name": "Marcus Robel II",
+    "role": "Supervisor",
+    "email": "Jedediah.Jakubowski-Paucek33@hotmail.com",
+    "phone": "464-551-0822 x980",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "79ac4759-0c1c-4b7d-922e-a20f46643d21",
+    "name": "Daisy Langworth",
+    "role": "Supervisor",
+    "email": "Orrin.Ryan@hotmail.com",
+    "phone": "(764) 417-8498",
+    "zones": [
+      "Lobby",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "39cea51c-cbfc-48b9-b3e4-ac290197b239",
+    "name": "Robin Kreiger",
+    "role": "Supervisor",
+    "email": "Aubrey_Rice@gmail.com",
+    "phone": "341-206-4609",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "fc2a99b0-cec6-4972-88fd-40b2d098e01b",
+    "name": "Lauren Bosco",
+    "role": "Supervisor",
+    "email": "Reginald.Nitzsche@gmail.com",
+    "phone": "(255) 816-7515",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "80b5378c-f47a-44f8-a0aa-578b484bd687",
+    "name": "Eddie Nader",
+    "role": "Supervisor",
+    "email": "Maybelle_DAmore18@gmail.com",
+    "phone": "(518) 608-3516 x30462",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "825a85ae-7ec4-4a4c-9dda-7ab3835c1228",
+    "name": "Dallas Wunsch",
+    "role": "Supervisor",
+    "email": "Lola20@hotmail.com",
+    "phone": "(972) 320-1831 x776",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "5dbbc087-d360-4ded-81d3-4c1794d3528e",
+    "name": "Lynn Stanton",
+    "role": "Supervisor",
+    "email": "Doyle_Breitenberg40@hotmail.com",
+    "phone": "1-977-670-3170 x92443",
+    "zones": [
+      "Restroom",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "76ed83b8-59a1-4769-994c-31366b753c1f",
+    "name": "Aubrey Keebler",
+    "role": "Team Lead",
+    "email": "Haylee_Rolfson45@hotmail.com",
+    "phone": "1-979-735-7333",
+    "zones": [
+      "Concourse",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "3ab4d82b-97f7-4980-af45-bce6fd65ebf5",
+    "name": "Laurence Luettgen",
+    "role": "Supervisor",
+    "email": "Christopher_Stroman-Nienow@hotmail.com",
+    "phone": "1-404-252-2041",
+    "zones": [
+      "Restroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "cd9d2ec5-ea50-43d7-8371-7e2883602448",
+    "name": "Miss Kimberly Swaniawski",
+    "role": "Team Lead",
+    "email": "Rosanna52@gmail.com",
+    "phone": "507-989-7913 x209",
+    "zones": [
+      "Restroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "99ce52f9-aba6-4d9d-bdf6-c8c6ca558a9a",
+    "name": "Dominick Rutherford",
+    "role": "Team Lead",
+    "email": "Lane.Dicki3@gmail.com",
+    "phone": "572.870.7503 x87464",
+    "zones": [
+      "Ballroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "1e4080ba-d024-4423-8860-3d82d7789fc4",
+    "name": "Simon Bergnaum",
+    "role": "Cleaner",
+    "email": "Shanie.Ferry5@hotmail.com",
+    "phone": "858-530-7506 x8666",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "beda662e-0946-4286-a574-21bd0411c5ab",
+    "name": "Herman Zboncak",
+    "role": "Team Lead",
+    "email": "Keon24@hotmail.com",
+    "phone": "1-640-591-8984 x11486",
+    "zones": [
+      "Concourse",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "a4ecf2de-4945-44a3-93c8-e6402ed9c939",
+    "name": "Andrew Fadel DVM",
+    "role": "Team Lead",
+    "email": "Ana.Kuhn59@gmail.com",
+    "phone": "1-958-738-6627 x6260",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "5e720abd-9ae9-426c-944f-b3949a4b23bc",
+    "name": "Elsie Lakin",
+    "role": "Team Lead",
+    "email": "Emmanuel.Bartoletti17@gmail.com",
+    "phone": "660-900-7326 x3290",
+    "zones": [
+      "Ballroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "124bd2bd-03fe-4485-92a5-50df8eebbd3f",
+    "name": "Grady Treutel",
+    "role": "Team Lead",
+    "email": "Assunta43@hotmail.com",
+    "phone": "(814) 786-4360",
+    "zones": [
+      "Concourse",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "89ff857e-c15f-44d8-ab20-c2fcc02f88ca",
+    "name": "Mike Ebert",
+    "role": "Cleaner",
+    "email": "Angelita_Abshire@gmail.com",
+    "phone": "1-492-673-4435",
+    "zones": [
+      "Concourse",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "9bdccbc7-2f2f-437d-9e9b-3cc88edccf6b",
+    "name": "Marcella Lesch",
+    "role": "Supervisor",
+    "email": "Jasper_Lindgren@gmail.com",
+    "phone": "1-754-528-3869 x64760",
+    "zones": [
+      "Concourse",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "0e6ae89a-f8b2-4c7f-926f-f8ca45d442f8",
+    "name": "Randal Pfeffer",
+    "role": "Team Lead",
+    "email": "Carlie.Maggio@hotmail.com",
+    "phone": "861.755.2360 x3986",
+    "zones": [
+      "Lobby",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "4a8d5329-971a-4f56-95fb-8248ee8b1f8a",
+    "name": "Curtis Leffler",
+    "role": "Cleaner",
+    "email": "Carroll72@hotmail.com",
+    "phone": "922.550.6664 x83294",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "dcc6b5b1-64f0-4cda-9cbc-b3f61499e414",
+    "name": "Jeff Kohler",
+    "role": "Supervisor",
+    "email": "Monserrat55@hotmail.com",
+    "phone": "520.283.5922 x21910",
+    "zones": [
+      "Concourse",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "226ccaa3-a0a2-4d06-9d6b-6806ac7cf77f",
+    "name": "Melvin Cruickshank",
+    "role": "Team Lead",
+    "email": "Antone.Moore56@gmail.com",
+    "phone": "224-628-1088",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "eb50ff7b-80dd-4d98-b264-72f86435d1ad",
+    "name": "Doyle Skiles",
+    "role": "Team Lead",
+    "email": "Pasquale_Mann-Breitenberg32@gmail.com",
+    "phone": "1-794-422-9575 x9089",
+    "zones": [
+      "Concourse",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "23018cb8-904b-4cbe-8dd3-b627f6c0ac2c",
+    "name": "Doug Zulauf",
+    "role": "Supervisor",
+    "email": "Quinton89@gmail.com",
+    "phone": "513-313-8215 x22921",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "8a0904ce-37df-4aab-9c90-798ca7065c09",
+    "name": "Fernando Bergstrom",
+    "role": "Supervisor",
+    "email": "Quentin.Franey@hotmail.com",
+    "phone": "511-788-0509 x83907",
+    "zones": [
+      "Ballroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "62d4d76d-aa6c-4908-9877-06f3d43209d6",
+    "name": "Geraldine Osinski",
+    "role": "Team Lead",
+    "email": "Kody_Gleason18@gmail.com",
+    "phone": "305.365.9998",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "253c36d8-03dd-4548-b0bd-9c703d2456c1",
+    "name": "Sylvester Spencer IV",
+    "role": "Supervisor",
+    "email": "Sabina27@yahoo.com",
+    "phone": "803.980.3850 x1000",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "ef338526-5bd1-4620-983d-4155c9e28183",
+    "name": "Aaron Hintz",
+    "role": "Cleaner",
+    "email": "Josiah_Rowe@hotmail.com",
+    "phone": "406-492-2733 x018",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "8c9d17ca-3d8f-4cdd-8f78-786cff630451",
+    "name": "Mrs. Alexandra Haag",
+    "role": "Supervisor",
+    "email": "Misael.Runolfsson81@yahoo.com",
+    "phone": "(646) 483-0243 x32654",
+    "zones": [
+      "Ballroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "2471acf5-b0b8-414d-bf0e-c87a6cefbec6",
+    "name": "Frank Adams",
+    "role": "Cleaner",
+    "email": "Lane22@gmail.com",
+    "phone": "263-729-4362 x5253",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "9fda6fe5-273a-4dcb-85b6-383d9ca76af1",
+    "name": "Bob Gulgowski",
+    "role": "Team Lead",
+    "email": "Kylie80@yahoo.com",
+    "phone": "(644) 896-0205 x10685",
+    "zones": [
+      "Lobby",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "1060e82a-42ef-4018-a9f4-888704450d92",
+    "name": "Deanna Littel II",
+    "role": "Supervisor",
+    "email": "Maida.Mueller@gmail.com",
+    "phone": "1-640-888-3457",
+    "zones": [
+      "Ballroom",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "ea181fd7-c3c4-4e56-a385-1049eaac32f3",
+    "name": "Harold Spencer",
+    "role": "Cleaner",
+    "email": "Ivory.Jakubowski82@yahoo.com",
+    "phone": "(767) 829-8431",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "cf0ce24e-2d13-4dd1-ab0f-1c64ceb8fff4",
+    "name": "Harvey Cummings",
+    "role": "Supervisor",
+    "email": "Dameon81@gmail.com",
+    "phone": "832.771.7590 x61685",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "ea31a4e4-6220-4796-a249-e07a6ef14eda",
+    "name": "Wilbur Beer",
+    "role": "Cleaner",
+    "email": "Rosario.Hills@yahoo.com",
+    "phone": "(870) 653-2741 x30578",
+    "zones": [
+      "Ballroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "a542e34b-1692-4abd-80c8-11e507825459",
+    "name": "William Wilderman",
+    "role": "Supervisor",
+    "email": "Thelma97@yahoo.com",
+    "phone": "1-632-626-5048 x78140",
+    "zones": [
+      "Ballroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "8c2894d8-68cf-450a-98bd-b89c55992dc6",
+    "name": "Jonathon Pollich",
+    "role": "Team Lead",
+    "email": "Nya_Daniel@yahoo.com",
+    "phone": "279-288-5368",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "36736d4b-afa5-403c-a208-58a0d9e44d43",
+    "name": "Lisa Casper",
+    "role": "Supervisor",
+    "email": "Lue26@gmail.com",
+    "phone": "444.941.0689",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "67f202e5-430e-49f9-8424-a2e9c7af4335",
+    "name": "Phillip Heathcote",
+    "role": "Cleaner",
+    "email": "Chandler.Waters95@hotmail.com",
+    "phone": "(808) 645-3608 x22100",
+    "zones": [
+      "Ballroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "2847c4db-0c20-4127-9f2e-f314f2412efd",
+    "name": "Tara Schowalter",
+    "role": "Cleaner",
+    "email": "Floy_Bergnaum50@gmail.com",
+    "phone": "448.637.8846 x094",
+    "zones": [
+      "Lobby",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "22b26357-e551-46e1-990a-91220d3aa0a2",
+    "name": "Randal Kirlin",
+    "role": "Cleaner",
+    "email": "Javon63@gmail.com",
+    "phone": "(256) 709-5675 x3336",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "a559da6e-4fc2-4c2d-964d-71cd8583117a",
+    "name": "Jennifer Cronin-Raynor",
+    "role": "Team Lead",
+    "email": "Name.Cartwright@hotmail.com",
+    "phone": "210.454.9613 x38397",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "0aefe1d6-5bbb-42e6-86dd-1f2c9c7d3057",
+    "name": "Whitney Zulauf",
+    "role": "Supervisor",
+    "email": "Ed_Greenfelder48@gmail.com",
+    "phone": "381.664.2066 x193",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "ca89d355-476b-4e17-a754-61f091b86a2f",
+    "name": "Mrs. Gretchen Wiegand-Jerde",
+    "role": "Team Lead",
+    "email": "Lavon_Morar16@yahoo.com",
+    "phone": "764.665.8917 x7833",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "67973ad6-19b8-4602-873a-66f6a188db59",
+    "name": "Mitchell Treutel",
+    "role": "Cleaner",
+    "email": "Matilda50@yahoo.com",
+    "phone": "913-753-6641",
+    "zones": [
+      "Restroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "24a6cb3a-38e7-4ec4-897a-c9501a46bd4f",
+    "name": "Betsy Haag",
+    "role": "Team Lead",
+    "email": "Orlando.Borer@gmail.com",
+    "phone": "(301) 468-1590 x95685",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "0ad9e240-c80f-47c5-9763-29ac1c8ef206",
+    "name": "Emmett Feil",
+    "role": "Cleaner",
+    "email": "Tyrel.Kozey81@yahoo.com",
+    "phone": "1-283-307-6409 x7963",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "91f41677-35a7-4112-a2b1-56c6ba43acbc",
+    "name": "Sabrina Cummings",
+    "role": "Team Lead",
+    "email": "Juana88@hotmail.com",
+    "phone": "(361) 972-4273",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "f081ea22-0f14-49e7-91d0-8059a1ea3bdb",
+    "name": "Amber Kshlerin",
+    "role": "Team Lead",
+    "email": "Bret12@hotmail.com",
+    "phone": "417.556.6248",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "2244c857-42f3-4948-b0ab-26448e2d04c6",
+    "name": "Tracy Leuschke",
+    "role": "Team Lead",
+    "email": "Eve.Langworth@yahoo.com",
+    "phone": "(822) 911-8668",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "92f104d4-f695-40c7-b37d-dc4f30531ea2",
+    "name": "Jaime Hessel",
+    "role": "Supervisor",
+    "email": "Johnnie.Kutch62@yahoo.com",
+    "phone": "999-305-4144 x80204",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "d171f934-7ce6-4b54-8584-8cae58b8b260",
+    "name": "Marcos Wilderman V",
+    "role": "Team Lead",
+    "email": "Eliezer64@gmail.com",
+    "phone": "1-206-240-7574 x5158",
+    "zones": [
+      "Restroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "a2e3e793-2687-4d9f-87f5-8a628fee27bb",
+    "name": "Ashley Goyette Sr.",
+    "role": "Cleaner",
+    "email": "Sigrid_Abernathy@gmail.com",
+    "phone": "888-724-3715",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "250e530e-7046-434e-bca9-4304ea419c47",
+    "name": "Carlton Hagenes",
+    "role": "Cleaner",
+    "email": "Amir.Ondricka3@gmail.com",
+    "phone": "(473) 693-1608",
+    "zones": [
+      "Lobby",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "051a1e12-dc0d-45e0-8019-6844642d38c9",
+    "name": "Bessie Beatty",
+    "role": "Cleaner",
+    "email": "Braeden.Runolfsson@gmail.com",
+    "phone": "992-576-2776",
+    "zones": [
+      "Restroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "3518b85f-e234-4b54-9f13-ab4b717b10e4",
+    "name": "Dr. Marlon Metz",
+    "role": "Supervisor",
+    "email": "Jarod_Simonis-Hackett@hotmail.com",
+    "phone": "804-587-3828 x7936",
+    "zones": [
+      "Ballroom",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "f3b1cfc5-ef64-4130-855e-c5c0dfa72281",
+    "name": "Gilberto Jacobi",
+    "role": "Cleaner",
+    "email": "Lonnie.Boyer@hotmail.com",
+    "phone": "703-622-3057",
+    "zones": [
+      "Lobby",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "c889285e-655e-4757-a290-1213f287670d",
+    "name": "Hugh Spencer",
+    "role": "Cleaner",
+    "email": "Rosalind.Ebert@hotmail.com",
+    "phone": "939-293-2114",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "7284b78b-7536-4d15-8bad-30fe513c7b00",
+    "name": "Lila Rice",
+    "role": "Supervisor",
+    "email": "Anne63@gmail.com",
+    "phone": "644.587.3473",
+    "zones": [
+      "Ballroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "90cf5661-a4ad-48b8-8c20-f22a82e40091",
+    "name": "Maggie Moore",
+    "role": "Supervisor",
+    "email": "Junius_Hamill98@yahoo.com",
+    "phone": "623-389-0629 x922",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "5b5a8649-7988-4716-abf3-2b54f9d44545",
+    "name": "Brooke Wisozk",
+    "role": "Cleaner",
+    "email": "Dannie.Will20@hotmail.com",
+    "phone": "1-409-982-6029 x153",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "6f294700-dd0c-4206-978a-e891a182f3db",
+    "name": "George Conn-Stokes",
+    "role": "Supervisor",
+    "email": "Lela29@yahoo.com",
+    "phone": "771-619-4660 x9077",
+    "zones": [
+      "Concourse",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "6e466c3d-f487-49ab-b6de-be265a1fad16",
+    "name": "Elmer Stamm",
+    "role": "Cleaner",
+    "email": "Herman42@hotmail.com",
+    "phone": "262-513-0957 x271",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "70b68c67-c7a5-4f70-b08d-22f800aa59c1",
+    "name": "Jonathon Christiansen",
+    "role": "Team Lead",
+    "email": "Eleonore.Parker@yahoo.com",
+    "phone": "439.529.0815 x965",
+    "zones": [
+      "Ballroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "a53b0260-368a-4cef-97a9-a5a7f22d8d4d",
+    "name": "Sam Predovic-Gorczany",
+    "role": "Supervisor",
+    "email": "Angelina_Schmitt@yahoo.com",
+    "phone": "1-509-558-0872 x08882",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "4b096e78-3f1f-4683-95b9-66b5e656f197",
+    "name": "Mr. Marcus Kris",
+    "role": "Cleaner",
+    "email": "Adalberto_Jacobi83@yahoo.com",
+    "phone": "743.516.2656 x2815",
+    "zones": [
+      "Restroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "1dabd0c5-b715-4ffc-ba5d-7c7098d83055",
+    "name": "Cynthia Collier",
+    "role": "Supervisor",
+    "email": "Patience_MacGyver@gmail.com",
+    "phone": "(989) 716-0331",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "82688417-e4aa-48ad-a9a1-6811495002e2",
+    "name": "Josefina Strosin DVM",
+    "role": "Cleaner",
+    "email": "Isabella_Leffler50@gmail.com",
+    "phone": "(737) 238-9484 x067",
+    "zones": [
+      "Ballroom",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "0c98b204-4dd9-4ce8-8b58-7971fa58ed9f",
+    "name": "Jeannie Barrows",
+    "role": "Supervisor",
+    "email": "Peyton99@hotmail.com",
+    "phone": "1-827-481-9908 x021",
+    "zones": [
+      "Lobby",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "d32bf518-d1f4-4ce6-8e10-ba61f2a613c8",
+    "name": "Dr. Gordon Mosciski",
+    "role": "Cleaner",
+    "email": "Linda_Murazik@yahoo.com",
+    "phone": "(423) 225-8237 x6295",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "e8a82e42-4032-441c-b2ec-506242087c53",
+    "name": "Mr. Rodolfo Mann",
+    "role": "Supervisor",
+    "email": "Hailee_Casper@hotmail.com",
+    "phone": "1-362-917-1362 x015",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "6c815bc8-ca49-493f-9b45-4a8ff70da671",
+    "name": "Karl Satterfield",
+    "role": "Supervisor",
+    "email": "Gia.Johns74@yahoo.com",
+    "phone": "1-943-824-0526",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "f2d2aad1-9baa-4a72-83f4-19b8a02ea3b6",
+    "name": "Dr. Carl Herman",
+    "role": "Supervisor",
+    "email": "Garth43@yahoo.com",
+    "phone": "(335) 794-5013",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "1836ec5c-335e-47b2-8252-896a6d789a3a",
+    "name": "Van Swaniawski",
+    "role": "Team Lead",
+    "email": "Mohamed.Pfannerstill6@gmail.com",
+    "phone": "750-791-4206",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "71692d5e-bb2d-489e-8f4e-a4784fa57dee",
+    "name": "Victoria Tremblay",
+    "role": "Cleaner",
+    "email": "Thurman.Casper@gmail.com",
+    "phone": "1-301-957-5422",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "f72b883f-a237-4bfd-8568-d83adeb8d2ee",
+    "name": "Candice Kertzmann",
+    "role": "Supervisor",
+    "email": "Llewellyn_Heller@gmail.com",
+    "phone": "764.693.5203 x254",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "6fc24afa-43ab-40f2-8dae-d5c9226c6f18",
+    "name": "Joanna Purdy IV",
+    "role": "Supervisor",
+    "email": "Angelina.Feeney@gmail.com",
+    "phone": "974-531-4022 x8384",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "10151954-cb45-4174-9784-60e1afdf2d37",
+    "name": "Tonya Murray",
+    "role": "Supervisor",
+    "email": "Jasen.Swaniawski@gmail.com",
+    "phone": "(724) 905-8930 x4034",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "c19af798-e61c-4eef-9cd6-ed150a3acc21",
+    "name": "Tommy Block",
+    "role": "Cleaner",
+    "email": "Krystal_Dickens51@yahoo.com",
+    "phone": "358.785.6498 x3677",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "53502026-62f7-446c-a39b-ce31449147a8",
+    "name": "Roy Hermiston Jr.",
+    "role": "Cleaner",
+    "email": "Celestine.Bogisich@hotmail.com",
+    "phone": "243.399.9254 x49965",
+    "zones": [
+      "Restroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "629b6c09-325f-4b91-bc3d-78122ce0cffb",
+    "name": "Alberto Murray DDS",
+    "role": "Supervisor",
+    "email": "Ulices_Langworth98@gmail.com",
+    "phone": "285-523-5798",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "7a537939-b84e-422a-80b7-f011183a0a2a",
+    "name": "Ora Baumbach",
+    "role": "Team Lead",
+    "email": "Wellington_Dicki99@gmail.com",
+    "phone": "828.859.3041 x84825",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "bc6d0892-f431-4f92-94c4-2308a0e89f6d",
+    "name": "Marion Boehm",
+    "role": "Cleaner",
+    "email": "Retta.Mante@gmail.com",
+    "phone": "(485) 659-1006 x871",
+    "zones": [
+      "Ballroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "e30ec6d8-d460-49d8-981c-1228514efdff",
+    "name": "Mrs. Yvette Bauch",
+    "role": "Cleaner",
+    "email": "Chase46@hotmail.com",
+    "phone": "632.901.5290",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "6fc7f44a-ea35-48e4-845e-94fd92f9d863",
+    "name": "Forrest Bode",
+    "role": "Supervisor",
+    "email": "Eusebio.Hilpert74@hotmail.com",
+    "phone": "733-406-9773",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "6c618b2e-6cbb-42a7-9706-a9a57acc5813",
+    "name": "Jaime Yundt",
+    "role": "Team Lead",
+    "email": "Loyce94@gmail.com",
+    "phone": "(647) 906-8702",
+    "zones": [
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "fbf5d782-38fd-47a8-93cd-e66115806c4a",
+    "name": "Donna Reichel",
+    "role": "Supervisor",
+    "email": "Skyla.Fritsch19@hotmail.com",
+    "phone": "830-786-3589 x45142",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "cb9cf478-3cdb-4df3-9271-63ece6db6ca7",
+    "name": "Theodore Reinger",
+    "role": "Supervisor",
+    "email": "Tressie_Leuschke@hotmail.com",
+    "phone": "726-388-3817 x5077",
+    "zones": [
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "09:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "id": "83703617-22ba-4314-b4ff-5397cd7e8868",
+    "name": "Isabel Kuphal",
+    "role": "Cleaner",
+    "email": "Viviane_Barrows45@yahoo.com",
+    "phone": "786-447-1102",
+    "zones": [
+      "Ballroom",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "c3d7b3e2-d187-40dc-9073-388b12a26386",
+    "name": "Marcella Runte",
+    "role": "Cleaner",
+    "email": "Zoila.Lebsack@yahoo.com",
+    "phone": "494.329.7111 x51920",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "b769bf78-4c91-4094-b4f8-56717e68ebb3",
+    "name": "Dr. Mary Block",
+    "role": "Cleaner",
+    "email": "Kristoffer.Bayer@yahoo.com",
+    "phone": "403.618.3234 x98188",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "4d994d72-f858-43cd-a04d-776aee5a21bd",
+    "name": "Abel Hudson",
+    "role": "Team Lead",
+    "email": "Brianne.Douglas77@hotmail.com",
+    "phone": "806-940-9469 x34771",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "992fa092-e353-4c95-846e-8b6241494048",
+    "name": "Tammy Conroy",
+    "role": "Supervisor",
+    "email": "Enos90@hotmail.com",
+    "phone": "1-547-851-6771 x3555",
+    "zones": [
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "06:00",
+        "end": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "ca5a3260-6b80-40c9-bf9b-cc2db0171271",
+    "name": "Gina Wilkinson",
+    "role": "Cleaner",
+    "email": "Marisa_Howe2@gmail.com",
+    "phone": "(461) 562-2758 x32464",
+    "zones": [
+      "Lobby",
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "ec1cafa4-5b56-4b22-bea7-22ec5eb0cf8e",
+    "name": "Sergio Quitzon",
+    "role": "Cleaner",
+    "email": "Ignacio14@yahoo.com",
+    "phone": "1-239-832-2955",
+    "zones": [
+      "Lobby",
+      "Ballroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "07:00",
+        "end": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "cc8375d1-0b36-4a40-98db-64e0841cb2ce",
+    "name": "Robyn Hane",
+    "role": "Cleaner",
+    "email": "Howell.Zieme55@yahoo.com",
+    "phone": "1-949-770-7988",
+    "zones": [
+      "Restroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "2a7cb59f-99ac-4a41-a354-3a69aac5caaa",
+    "name": "Andre Baumbach",
+    "role": "Team Lead",
+    "email": "Connie.Hand86@gmail.com",
+    "phone": "1-957-524-9706",
+    "zones": [
+      "Lobby",
+      "Concourse"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "10:00",
+        "end": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "9d0d5695-8681-4549-8a20-9355072f594d",
+    "name": "Erika Crona",
+    "role": "Team Lead",
+    "email": "Chadrick.West@gmail.com",
+    "phone": "(420) 957-0785 x2970",
+    "zones": [
+      "Restroom"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "12:00",
+        "end": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "4b14185b-e881-4fe1-9e89-9276565f37c8",
+    "name": "Ramona Goodwin-Kuhic MD",
+    "role": "Cleaner",
+    "email": "Haylie_Pfannerstill@yahoo.com",
+    "phone": "537-426-9525 x152",
+    "zones": [
+      "Restroom",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "06:00",
+        "end": "14:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "12:00",
+        "end": "20:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "88ad78b1-038b-4b61-a6c7-bfd6db450acf",
+    "name": "Damon Green-Walker Jr.",
+    "role": "Supervisor",
+    "email": "Lina.Stehr@gmail.com",
+    "phone": "891-652-1656 x9028",
+    "zones": [
+      "Concourse",
+      "Lobby"
+    ],
+    "availability": [
+      {
+        "date": "2025-06-09",
+        "start": "11:00",
+        "end": "19:00"
+      },
+      {
+        "date": "2025-06-10",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-11",
+        "start": "09:00",
+        "end": "17:00"
+      },
+      {
+        "date": "2025-06-12",
+        "start": "08:00",
+        "end": "16:00"
+      },
+      {
+        "date": "2025-06-13",
+        "start": "10:00",
+        "end": "18:00"
+      },
+      {
+        "date": "2025-06-14",
+        "start": "07:00",
+        "end": "15:00"
+      },
+      {
+        "date": "2025-06-15",
+        "start": "11:00",
+        "end": "19:00"
+      }
+    ]
+  }
+]
