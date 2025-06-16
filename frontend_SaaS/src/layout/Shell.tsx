@@ -1,4 +1,5 @@
-import { Outlet } from "react-router-dom";
+// CHANGED: Import Outlet from @tanstack/react-router
+import { Outlet } from "@tanstack/react-router";
 import TopBar from "./TopBar";
 import SideNav from "./SideNav";
 
